@@ -62,7 +62,6 @@ nav img{
 }
 
 
-
 /* XHOME - Navigasi Bar - Nav SubHeader */
 .subheader{
     height: 50vh;
@@ -269,6 +268,7 @@ nav .fa-solid{
     }
 }
 
+
 /*HOME - Video YT 1D*/
 .vidyt1d{
     align-items: center;
@@ -281,6 +281,38 @@ nav .fa-solid{
 
 .vidyt{
     padding-top: 2%;
+}
+
+
+/*HOME - Reference*/
+.reff{
+    text-align: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+.reff h1{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.reff summary{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 1%;
+}
+
+.reff a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.reff a:hover{
+    text-decoration: underline;
+    color: #C90906;
 }
 
 
@@ -363,6 +395,7 @@ nav .fa-solid{
 .thehistory p{
     font-size: medium;
 }
+
 
 /*PROFILE - Sosmed 1D*/
 .sosialmed1d{
@@ -460,8 +493,8 @@ nav .fa-solid{
 }
 
 
+
 /*---------ALBUM---------*/
-/*ALBUM - List Album*/
 .album1d{
     width: 80%;
     padding-top: 100px;
@@ -549,6 +582,7 @@ nav .fa-solid{
     transform: translate(-50%, -50%);
   }
 
+
 /*AWARD - Content List Award*/
 .award1d{
     width: 60%;
@@ -630,4 +664,3 @@ nav .fa-solid{
     width: 50%;
     margin: auto;
 }
-
